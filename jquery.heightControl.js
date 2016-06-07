@@ -1,4 +1,6 @@
 /**
+ * Контроль изменения высоты блока.
+ * https://github.com/mavsan/heightControl
  * Created by mavsan on 07.06.2016.
  * Author: Maksim Klimenko
  * Email: mavsan@gmail.com
